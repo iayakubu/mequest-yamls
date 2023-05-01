@@ -1,0 +1,6 @@
+interfaces:
+  - name: eth0
+    address: 192.135.2.100
+    netmask: 255.255.255.0
+    gateway: 192.135.2.1
+

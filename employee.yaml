@@ -1,0 +1,5 @@
+employees:
+  - name: Ola Bode
+    position: Software Engineer
+    department: Engineering
+    salary: 100000
